@@ -1,0 +1,59 @@
+Uploaded_variation	Location	Ref	Allele	Consequence	IMPACT	SYMBOL	Gene	Feature_type	Feature	BIOTYPE	EXON	INTRON	HGVSc	HGVSp	cDNA_position	CDS_position	Protein_position	Amino_acids	Codons	Existing_variation	DISTANCE	STRAND	FLAGS	SYMBOL_SOURCE	HGNC_ID	CANONICAL	SOURCE	genes.gff3.bgz
+22_21508002_C/T	22:21508002	C	T	intergenic_variant	MODIFIER																							
+22_26603877_TT/-	22:26603876	ATT	-	intron_variant	MODIFIER	SEZ6L	ENSG00000100095.14	Transcript	ENST00000248933.6	protein_coding		1/16										1				YES	genes.gff3.bgz	
+22_26603877_TT/-	22:26603876	ATT	-	intron_variant	MODIFIER	SEZ6L	ENSG00000100095.14	Transcript	ENST00000343706.4	protein_coding		1/14										1					genes.gff3.bgz	
+22_26603877_TT/-	22:26603876	ATT	-	intron_variant	MODIFIER	SEZ6L	ENSG00000100095.14	Transcript	ENST00000360929.3	protein_coding		1/14										1					genes.gff3.bgz	
+22_26603877_TT/-	22:26603876	ATT	-	intron_variant	MODIFIER	SEZ6L	ENSG00000100095.14	Transcript	ENST00000404234.3	protein_coding		1/16										1					genes.gff3.bgz	
+22_26603877_TT/-	22:26603876	ATT	-	intron_variant	MODIFIER	SEZ6L	ENSG00000100095.14	Transcript	ENST00000529632.2	protein_coding		1/15										1					genes.gff3.bgz	
+22_32908738_T/C	22:32908738	T	C	3_prime_UTR_variant	MODIFIER	SYN3	ENSG00000185666.10	Transcript	ENST00000332840.5	protein_coding	13/13				2843							-1					genes.gff3.bgz	
+22_32908738_T/C	22:32908738	T	C	3_prime_UTR_variant	MODIFIER	SYN3	ENSG00000185666.10	Transcript	ENST00000358763.2	protein_coding	14/14				2927							-1				YES	genes.gff3.bgz	
+22_32908738_T/C	22:32908738	T	C	downstream_gene_variant	MODIFIER	SYN3	ENSG00000185666.10	Transcript	ENST00000461446.1	retained_intron											1688	-1					genes.gff3.bgz	
+22_32908738_T/C	22:32908738	T	C	downstream_gene_variant	MODIFIER	SYN3	ENSG00000185666.10	Transcript	ENST00000467095.1	processed_transcript											924	-1					genes.gff3.bgz	
+22_32908738_T/C	22:32908738	T	C	downstream_gene_variant	MODIFIER	SYN3	ENSG00000185666.10	Transcript	ENST00000483062.1	retained_intron											825	-1					genes.gff3.bgz	
+22_36556964_C/T	22:36556964	C	T	5_prime_UTR_variant	MODIFIER	APOL3	ENSG00000128284.15	Transcript	ENST00000349314.2	protein_coding	1/3				14							-1				YES	genes.gff3.bgz	
+22_36556964_C/T	22:36556964	C	T	intron_variant	MODIFIER	APOL3	ENSG00000128284.15	Transcript	ENST00000361710.2	protein_coding		1/3										-1					genes.gff3.bgz	
+22_36556964_C/T	22:36556964	C	T	intron_variant	MODIFIER	APOL3	ENSG00000128284.15	Transcript	ENST00000397287.2	protein_coding		2/4										-1					genes.gff3.bgz	
+22_36556964_C/T	22:36556964	C	T	5_prime_UTR_variant&NMD_transcript_variant	MODIFIER	APOL3	ENSG00000128284.15	Transcript	ENST00000397289.2	nonsense_mediated_decay	1/4				14							-1					genes.gff3.bgz	
+22_36556964_C/T	22:36556964	C	T	5_prime_UTR_variant	MODIFIER	APOL3	ENSG00000128284.15	Transcript	ENST00000397293.2	protein_coding	1/4				14							-1					genes.gff3.bgz	
+22_36556964_C/T	22:36556964	C	T	5_prime_UTR_variant&NMD_transcript_variant	MODIFIER	APOL3	ENSG00000128284.15	Transcript	ENST00000422426.1	nonsense_mediated_decay	1/5				14							-1					genes.gff3.bgz	
+22_36556964_C/T	22:36556964	C	T	intron_variant	MODIFIER	APOL3	ENSG00000128284.15	Transcript	ENST00000424878.2	protein_coding		1/3										-1					genes.gff3.bgz	
+22_36556964_C/T	22:36556964	C	T	upstream_gene_variant	MODIFIER	APOL3	ENSG00000128284.15	Transcript	ENST00000426939.2	nonsense_mediated_decay											162	-1					genes.gff3.bgz	
+22_36556964_C/T	22:36556964	C	T	5_prime_UTR_variant&NMD_transcript_variant	MODIFIER	APOL3	ENSG00000128284.15	Transcript	ENST00000432700.1	nonsense_mediated_decay	1/4				14							-1					genes.gff3.bgz	
+22_36556964_C/T	22:36556964	C	T	upstream_gene_variant	MODIFIER	APOL3	ENSG00000128284.15	Transcript	ENST00000472303.1	nonsense_mediated_decay											161	-1					genes.gff3.bgz	
+22_36556964_C/T	22:36556964	C	T	upstream_gene_variant	MODIFIER	APOL3	ENSG00000128284.15	Transcript	ENST00000485453.1	processed_transcript											3978	-1					genes.gff3.bgz	
+22_36556964_C/T	22:36556964	C	T	upstream_gene_variant	MODIFIER	APOL3	ENSG00000128284.15	Transcript	ENST00000487355.1	nonsense_mediated_decay											161	-1					genes.gff3.bgz	
+22_36556964_C/T	22:36556964	C	T	upstream_gene_variant	MODIFIER	APOL3	ENSG00000128284.15	Transcript	ENST00000487423.1	processed_transcript											3980	-1					genes.gff3.bgz	
+22_36556964_C/T	22:36556964	C	T	upstream_gene_variant	MODIFIER	APOL3	ENSG00000128284.15	Transcript	ENST00000487783.1	nonsense_mediated_decay											161	-1					genes.gff3.bgz	
+22_36556964_C/T	22:36556964	C	T	upstream_gene_variant	MODIFIER	APOL3	ENSG00000128284.15	Transcript	ENST00000525184.1	processed_transcript											4031	-1					genes.gff3.bgz	
+22_36556964_C/T	22:36556964	C	T	upstream_gene_variant	MODIFIER	APOL3	ENSG00000128284.15	Transcript	ENST00000528740.1	processed_transcript											4030	-1					genes.gff3.bgz	
+22_36556964_C/T	22:36556964	C	T	upstream_gene_variant	MODIFIER	APOL3	ENSG00000128284.15	Transcript	ENST00000530895.1	nonsense_mediated_decay											161	-1					genes.gff3.bgz	
+22_36556964_C/T	22:36556964	C	T	upstream_gene_variant	MODIFIER	APOL3	ENSG00000128284.15	Transcript	ENST00000531095.1	protein_coding											133	-1					genes.gff3.bgz	
+22_36556964_C/T	22:36556964	C	T	upstream_gene_variant	MODIFIER	APOL3	ENSG00000128284.15	Transcript	ENST00000531195.1	nonsense_mediated_decay											162	-1					genes.gff3.bgz	
+22_36556964_C/T	22:36556964	C	T	upstream_gene_variant	MODIFIER	APOL3	ENSG00000128284.15	Transcript	ENST00000533061.1	processed_transcript											161	-1					genes.gff3.bgz	
+22_36556964_C/T	22:36556964	C	T	upstream_gene_variant	MODIFIER	APOL3	ENSG00000128284.15	Transcript	ENST00000534251.1	processed_transcript											3967	-1					genes.gff3.bgz	
+22_37342378_A/C	22:37342378	A	C	downstream_gene_variant	MODIFIER	CSF2RBP1	ENSG00000232254.1	Transcript	ENST00000447905.1	unprocessed_pseudogene											4193	-1				YES	genes.gff3.bgz	
+22_40464821_G/C	22:40464821	G	C	intron_variant	MODIFIER	TNRC6B	ENSG00000100354.16	Transcript	ENST00000301923.9	protein_coding		1/23										1					genes.gff3.bgz	
+22_40464821_G/C	22:40464821	G	C	intron_variant	MODIFIER	TNRC6B	ENSG00000100354.16	Transcript	ENST00000402203.1	protein_coding		1/23										1					genes.gff3.bgz	
+22_40464821_G/C	22:40464821	G	C	intron_variant	MODIFIER	TNRC6B	ENSG00000100354.16	Transcript	ENST00000441751.1	protein_coding		1/3										1					genes.gff3.bgz	
+22_40540185_G/A	22:40540185	G	A	intron_variant	MODIFIER	TNRC6B	ENSG00000100354.16	Transcript	ENST00000301923.9	protein_coding		3/23										1					genes.gff3.bgz	
+22_40540185_G/A	22:40540185	G	A	intron_variant	MODIFIER	TNRC6B	ENSG00000100354.16	Transcript	ENST00000402203.1	protein_coding		3/23										1					genes.gff3.bgz	
+22_40540185_G/A	22:40540185	G	A	intron_variant	MODIFIER	TNRC6B	ENSG00000100354.16	Transcript	ENST00000441751.1	protein_coding		3/3										1					genes.gff3.bgz	
+22_40597667_G/A	22:40597667	G	A	intron_variant	MODIFIER	TNRC6B	ENSG00000100354.16	Transcript	ENST00000301923.9	protein_coding		4/23										1					genes.gff3.bgz	
+22_40597667_G/A	22:40597667	G	A	intron_variant	MODIFIER	TNRC6B	ENSG00000100354.16	Transcript	ENST00000335727.9	protein_coding		1/20										1					genes.gff3.bgz	
+22_40597667_G/A	22:40597667	G	A	intron_variant	MODIFIER	TNRC6B	ENSG00000100354.16	Transcript	ENST00000402203.1	protein_coding		4/23										1					genes.gff3.bgz	
+22_40597667_G/A	22:40597667	G	A	intron_variant	MODIFIER	TNRC6B	ENSG00000100354.16	Transcript	ENST00000454349.2	protein_coding		1/22										1				YES	genes.gff3.bgz	
+22_40597667_G/A	22:40597667	G	A	intron_variant&non_coding_transcript_variant	MODIFIER	TNRC6B	ENSG00000100354.16	Transcript	ENST00000489500.1	retained_intron		1/1										1					genes.gff3.bgz	
+22_42348602_G/C	22:42348602	G	C	intron_variant&non_coding_transcript_variant	MODIFIER	LINC00634	ENSG00000205704.5	Transcript	ENST00000381348.4	processed_transcript		1/1										1				YES	genes.gff3.bgz	
+22_42348602_G/C	22:42348602	G	C	intron_variant&non_coding_transcript_variant	MODIFIER	LINC00634	ENSG00000205704.5	Transcript	ENST00000505157.1	unitary_pseudogene		1/1										1					genes.gff3.bgz	
+22_46394928_C/T	22:46394928	C	T	intergenic_variant	MODIFIER																							
+22_46500973_T/C	22:46500973	T	C	intron_variant	MODIFIER	FLJ27365	ENSG00000197182.8	Transcript	ENST00000360737.3	protein_coding		3/4										1				YES	genes.gff3.bgz	
+22_46500973_T/C	22:46500973	T	C	intron_variant	MODIFIER	FLJ27365	ENSG00000197182.8	Transcript	ENST00000381051.2	protein_coding		4/4										1					genes.gff3.bgz	
+22_46500973_T/C	22:46500973	T	C	intron_variant&NMD_transcript_variant	MODIFIER	FLJ27365	ENSG00000197182.8	Transcript	ENST00000435439.1	nonsense_mediated_decay		4/5										1					genes.gff3.bgz	
+22_46652959_A/G	22:46652959	A	G	synonymous_variant	LOW	PKDREJ	ENSG00000130943.5	Transcript	ENST00000253255.5	protein_coding	1/1				6261	6261	2087	P	ccT/ccC			-1				YES	genes.gff3.bgz	
+22_46762214_T/G	22:46762214	T	G	intron_variant	MODIFIER	CELSR1	ENSG00000075275.12	Transcript	ENST00000262738.3	protein_coding		30/34										-1				YES	genes.gff3.bgz	
+22_46762214_T/G	22:46762214	T	G	upstream_gene_variant	MODIFIER	CELSR1	ENSG00000075275.12	Transcript	ENST00000473624.1	retained_intron											937	-1					genes.gff3.bgz	
+22_46828354_C/G	22:46828354	C	G	intron_variant	MODIFIER	CELSR1	ENSG00000075275.12	Transcript	ENST00000262738.3	protein_coding		5/34										-1				YES	genes.gff3.bgz	
+22_47080974_-/G	22:47080973	T	G	3_prime_UTR_variant	MODIFIER	CERK	ENSG00000100422.9	Transcript	ENST00000216264.8	protein_coding	13/13				3784-3785							-1				YES	genes.gff3.bgz	
+22_47080974_-/G	22:47080973	T	G	downstream_gene_variant	MODIFIER	CERK	ENSG00000100422.9	Transcript	ENST00000443629.1	nonsense_mediated_decay											1906	-1					genes.gff3.bgz	
+22_47080974_-/G	22:47080973	T	G	downstream_gene_variant	MODIFIER	CERK	ENSG00000100422.9	Transcript	ENST00000471929.1	processed_transcript											4978	-1					genes.gff3.bgz	
+22_47080974_-/G	22:47080973	T	G	downstream_gene_variant	MODIFIER	CERK	ENSG00000100422.9	Transcript	ENST00000541677.1	protein_coding											1911	-1					genes.gff3.bgz	

@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+data/raw/
+data/processed/*.vcf.gz
+data/processed/*.tbi
+data/processed/freq_*.txt
