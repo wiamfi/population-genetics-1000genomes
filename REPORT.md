@@ -82,6 +82,19 @@ resistance in populations of African ancestry. While the functional significance
 this specific variant is not established here, it represents a biologically 
 plausible candidate for future investigation.
 
+### Validation with scikit-allel
+
+- Allele frequencies recomputed from raw genotypes (scikit-allel) matched the bcftools
+  values for the 13 shortlisted SNPs (max absolute difference: [VALUE FROM CELL 5]).
+- Hudson FST on chr22: YRI–CEU 0.140 ± 0.005, YRI–CHB 0.174 ± 0.007,
+  CEU–CHB 0.108 ± 0.006 (block-jackknife SE), consistent with the out-of-Africa
+  population history.
+- The frequency-difference ranking and FST ranking were highly concordant
+  (Spearman ρ = 0.968, n = 416,715 SNPs). All 13 shortlisted SNPs fall in the top
+  0.012% of variants by FST. Because both statistics derive from the same allele
+  frequencies, this shows the selection is robust to the choice of statistic rather
+  than providing independent evidence of functional relevance.
+  
 ## Limitations
 
 - Analysis restricted to chromosome 22 only; genome-wide patterns may differ.
